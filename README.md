@@ -2,7 +2,7 @@
 - 👀 I’m interested in automated test system for manufacturing.
 - 🌱 I’m currently learning WPF and bushing up on dta structures.
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can find me on [Bitbuckey](https://bitbucket.org/davidhary/)
+- 📫 You can find me on [Bitbucket](https://bitbucket.org/davidhary/)
 
 
 
