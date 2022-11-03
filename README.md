@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AteCoder
+- 👋 Hi, I’m @ATECoder
 - 👀 I’m interested in automated test system for manufacturing.
 - 🌱 I’m currently learning WPF and bushing up on dta structures.
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 
 
 <!---
-AteCoder/AteCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ATECoder/ATECoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
