@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @ATECoder
 - 👀 I’m interested in automated test system for manufacturing.
-- 🌱 I’m currently learning WPF and bushing up on dta structures.
+- 🌱 I’m currently learning .NET Maui and Uno platforms.
+- 🌱 I’m also dubbing with pure VBA implementation of instrument control.
+- 🌱 I’m also working on a pure C# implementation of VXI-11 for LXI instruments.
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can find me on [Bitbucket](https://bitbucket.org/davidhary/)
+- 📫 You can also find me on [Bitbucket](https://bitbucket.org/davidhary/)
 
 
 
